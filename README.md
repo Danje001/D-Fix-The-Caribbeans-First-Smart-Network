@@ -35,3 +35,6 @@ Features:
 https://appadvice.com/app/d-fix/6739700012
 
 https://www.sknis.gov.kn/2025/04/23/taichung-city-adds-saint-kitts-and-nevis-authors-to-library-database/
+
+
+© 2025 Yitzak D.A. Bass. All rights reserved. All internal systems and modules are proprietary. Redistribution or unauthorized use is prohibited.
